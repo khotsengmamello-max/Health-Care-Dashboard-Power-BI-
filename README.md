@@ -4,7 +4,7 @@ An interactive healthcare analytics dashboard built with **Microsoft Power BI** 
 
 ---
 
-## 📊 Dashboard Preview
+##  Dashboard Preview
 
 ### Hospital Summary View
 ![Hospital Summary](https://github.com/khotsengmamello-max/Health-Care-Dashboard-Power-BI-/blob/main/Hospital%20Summary.png)
@@ -14,7 +14,7 @@ An interactive healthcare analytics dashboard built with **Microsoft Power BI** 
 
 ---
 
-## 🎯 Objective
+##  Objective
 
 The primary goal of this project is to provide an interactive and insightful dashboard for **Hospital Management Teams** to track and analyze:
 
@@ -26,7 +26,7 @@ The primary goal of this project is to provide an interactive and insightful das
 
 ---
 
-## 🛠️ Project Overview
+##  Project Overview
 
 | Component | Description |
 |-----------|-------------|
@@ -40,17 +40,17 @@ The primary goal of this project is to provide an interactive and insightful das
 
 ---
 
-## ✅ Key Features
+##  Key Features
 
-- 📈 **Interactive Visualizations** – Bar charts, line charts, maps, and tables
-- 🎯 **KPI Tracking** – At-a-glance performance metrics using card visuals
-- 🔍 **Drill-Down Capabilities** – Explore patient-level details with drill-through functionality
-- 🧩 **Custom Visuals** – Enhanced UI with rotating cards and scrollers
-- 🧭 **User-Friendly Navigation** – Buttons, slicers, and filters for easy data segmentation
+-  **Interactive Visualizations** – Bar charts, line charts, maps, and tables
+-  **KPI Tracking** – At-a-glance performance metrics using card visuals
+-  **Drill-Down Capabilities** – Explore patient-level details with drill-through functionality
+-  **Custom Visuals** – Enhanced UI with rotating cards and scrollers
+-  **User-Friendly Navigation** – Buttons, slicers, and filters for easy data segmentation
 
 ---
 
-## 💡 Benefits
+## Benefits
 
 - **Centralized Information** – Single source of truth for monitoring hospital activities
 - **Data-Driven Decision Making** – Empowers management teams to make informed, evidence-based decisions
@@ -58,7 +58,7 @@ The primary goal of this project is to provide an interactive and insightful das
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 1. Clone this repository
 2. Open the `.pbix` file in **Power BI Desktop**
@@ -67,20 +67,23 @@ The primary goal of this project is to provide an interactive and insightful das
 
 ---
 
-## 📁 Repository Structure
-Health-Care-Dashboard-Power-BI
+## Repository Structure
+Health-Care-Dashboard-Power-BI-/
+
 1.Hospital Summary.png
+
 2.Patient Summary.png
+
 3.[Healthcare Power BI (Personal Project)_Noliyolo Mamello Khotseng.pbix]
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Feel free to fork this repository and submit pull requests for improvements or new features.
 
 ---
 
-## 📬 Contact
+##  Contact
 
 For questions or feedback, please reach out via [GitHub](https://github.com/khotsengmamello-max).
