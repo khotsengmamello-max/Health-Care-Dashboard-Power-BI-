@@ -68,10 +68,10 @@ The primary goal of this project is to provide an interactive and insightful das
 ---
 
 ## 📁 Repository Structure
-Health-Care-Dashboard-Power-BI-/
-├── Hospital Summary.png
-├── Patient Summary.png
-└── [Your .pbix file]
+Health-Care-Dashboard-Power-BI
+1.Hospital Summary.png
+2.Patient Summary.png
+3.[Healthcare Power BI (Personal Project)_Noliyolo Mamello Khotseng.pbix]
 
 ---
 
